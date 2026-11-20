@@ -1,5 +1,5 @@
 # sell-inside-instagram-dms-and-outside-too
-If you are an Instagram seller, you can easily sell inside Instagram DMs and automate everything from catalog sharing to adding the product to cart to coupon to shipping to checkout. If you are an affiliate marketer, you can target your audience with the digital or physical product all automatically.
+If you are an Instagram seller, you can easily sell inside Instagram DMs and automate everything from catalog sharing to adding the product to the cart, to coupons, to shipping, to checkout. If you are an affiliate marketer, you can target your audience with the digital or physical product - all automatically.
 
 # CheckoutDM Review: Sell on Instagram DMs with Automated Checkout, Payments & Order Management
 
@@ -15,7 +15,7 @@ And it is not limited to Instagram. With the **Storefront**, you can take orders
 
 👉 **Start free, forever: [checkoutdm.com](https://checkoutdm.com)**
 
----
+<img width="2048" height="768" alt="LinkedIn checkout DM Banner Latest" src="https://github.com/user-attachments/assets/43bcf028-d5be-4ec5-9d3c-5665909cfd53" />
 
 ## What is CheckoutDM?
 
